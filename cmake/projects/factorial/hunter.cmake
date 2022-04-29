@@ -10,11 +10,11 @@ hunter_add_version(
     PACKAGE_NAME
     fib
     VERSION
-    "_1"
+    "1.0.1"
     URL
-    https://github.com/MsDaria08/lab07/archive/refs/tags/v_1.tar.gz
+    https://github.com/MsDaria08/lab07/archive/v1.0.1.tar.gz
     SHA1
-    0000a2f992b167145d381fb0d6fbc37584761380
+    f4cef720ce0171121fc020aef3aac090254065dc
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
