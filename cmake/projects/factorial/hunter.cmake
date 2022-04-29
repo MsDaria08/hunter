@@ -8,7 +8,7 @@ include(hunter_pick_scheme)
 
 hunter_add_version(
     PACKAGE_NAME
-    fib
+    factorial
     VERSION
     "1.0.1"
     URL
