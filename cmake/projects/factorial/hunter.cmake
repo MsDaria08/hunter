@@ -10,7 +10,7 @@ hunter_add_version(
     PACKAGE_NAME
     fib
     VERSION
-    "1.0.1"
+    "_1"
     URL
     https://github.com/MsDaria08/lab07/archive/refs/tags/v_1.tar.gz
     SHA1
